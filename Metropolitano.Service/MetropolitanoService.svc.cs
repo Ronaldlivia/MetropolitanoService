@@ -70,11 +70,8 @@ namespace Metropolitano.Service
 
                 }
                 objTarjetaResponse.EsValido = true;
-                objTarjetaResponse.Mensaje = "Tarjeta Actualizada";
+                objTarjetaResponse.Mensaje = "Tarjeta Actualizada Correctamente";
                 message.Delete();
-
-
-
 
 
             }
