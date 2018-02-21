@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metropolitano.Test", "Metropolitano.Test\Metropolitano.Test.csproj", "{3ABF1DBF-A9C5-4695-9BC1-D5F09217F855}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metropolitano.Service", "Metropolitano.Service\Metropolitano.Service.csproj", "{39475BE2-DE07-4179-8918-E86AB1B27C98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QUEUE", "QUEUE\QUEUE.csproj", "{662166D3-AD5E-4061-B408-F08E1720A6BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ABF1DBF-A9C5-4695-9BC1-D5F09217F855}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ABF1DBF-A9C5-4695-9BC1-D5F09217F855}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ABF1DBF-A9C5-4695-9BC1-D5F09217F855}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ABF1DBF-A9C5-4695-9BC1-D5F09217F855}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39475BE2-DE07-4179-8918-E86AB1B27C98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39475BE2-DE07-4179-8918-E86AB1B27C98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39475BE2-DE07-4179-8918-E86AB1B27C98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39475BE2-DE07-4179-8918-E86AB1B27C98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{662166D3-AD5E-4061-B408-F08E1720A6BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{662166D3-AD5E-4061-B408-F08E1720A6BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{662166D3-AD5E-4061-B408-F08E1720A6BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{662166D3-AD5E-4061-B408-F08E1720A6BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

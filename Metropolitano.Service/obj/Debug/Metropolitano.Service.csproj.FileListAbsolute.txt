@@ -1,0 +1,23 @@
+D:\UPC\Sistemas Distribuidos\Proyecto\Metropolitano\Metropolitano.Service\bin\Metropolitano.Service.dll.config
+D:\UPC\Sistemas Distribuidos\Proyecto\Metropolitano\Metropolitano.Service\bin\Metropolitano.Service.dll
+D:\UPC\Sistemas Distribuidos\Proyecto\Metropolitano\Metropolitano.Service\bin\Metropolitano.Service.pdb
+D:\UPC\Sistemas Distribuidos\Proyecto\Metropolitano\Metropolitano.Service\obj\Debug\Metropolitano.Service.csprojResolveAssemblyReference.cache
+D:\UPC\Sistemas Distribuidos\Proyecto\Metropolitano\Metropolitano.Service\obj\Debug\Metropolitano.Service.dll
+D:\UPC\Sistemas Distribuidos\Proyecto\Metropolitano\Metropolitano.Service\obj\Debug\Metropolitano.Service.pdb
+C:\Users\Ronald\Desktop\Metropolitano\Metropolitano\Metropolitano.Service\bin\Metropolitano.Service.dll.config
+C:\Users\Ronald\Desktop\Metropolitano\Metropolitano\Metropolitano.Service\bin\Metropolitano.Service.dll
+C:\Users\Ronald\Desktop\Metropolitano\Metropolitano\Metropolitano.Service\bin\Metropolitano.Service.pdb
+C:\Users\Ronald\Desktop\Metropolitano\Metropolitano\Metropolitano.Service\bin\Common.Logging.dll
+C:\Users\Ronald\Desktop\Metropolitano\Metropolitano\Metropolitano.Service\bin\IronSharp.Core.dll
+C:\Users\Ronald\Desktop\Metropolitano\Metropolitano\Metropolitano.Service\bin\IronSharp.IronMQ.dll
+C:\Users\Ronald\Desktop\Metropolitano\Metropolitano\Metropolitano.Service\bin\Newtonsoft.Json.dll
+C:\Users\Ronald\Desktop\Metropolitano\Metropolitano\Metropolitano.Service\bin\System.Net.Http.Formatting.dll
+C:\Users\Ronald\Desktop\Metropolitano\Metropolitano\Metropolitano.Service\bin\Common.Logging.pdb
+C:\Users\Ronald\Desktop\Metropolitano\Metropolitano\Metropolitano.Service\bin\Common.Logging.xml
+C:\Users\Ronald\Desktop\Metropolitano\Metropolitano\Metropolitano.Service\bin\IronSharp.Core.pdb
+C:\Users\Ronald\Desktop\Metropolitano\Metropolitano\Metropolitano.Service\bin\IronSharp.IronMQ.pdb
+C:\Users\Ronald\Desktop\Metropolitano\Metropolitano\Metropolitano.Service\bin\Newtonsoft.Json.xml
+C:\Users\Ronald\Desktop\Metropolitano\Metropolitano\Metropolitano.Service\bin\System.Net.Http.Formatting.xml
+C:\Users\Ronald\Desktop\Metropolitano\Metropolitano\Metropolitano.Service\obj\Debug\Metropolitano.Service.csprojResolveAssemblyReference.cache
+C:\Users\Ronald\Desktop\Metropolitano\Metropolitano\Metropolitano.Service\obj\Debug\Metropolitano.Service.dll
+C:\Users\Ronald\Desktop\Metropolitano\Metropolitano\Metropolitano.Service\obj\Debug\Metropolitano.Service.pdb

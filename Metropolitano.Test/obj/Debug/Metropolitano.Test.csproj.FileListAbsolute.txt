@@ -1,0 +1,7 @@
+D:\UPC\Sistemas Distribuidos\Proyecto\Metropolitano\Metropolitano.Test\bin\Debug\Metropolitano.Test.dll
+D:\UPC\Sistemas Distribuidos\Proyecto\Metropolitano\Metropolitano.Test\bin\Debug\Metropolitano.Test.pdb
+D:\UPC\Sistemas Distribuidos\Proyecto\Metropolitano\Metropolitano.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\UPC\Sistemas Distribuidos\Proyecto\Metropolitano\Metropolitano.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\UPC\Sistemas Distribuidos\Proyecto\Metropolitano\Metropolitano.Test\obj\Debug\Metropolitano.Test.csprojResolveAssemblyReference.cache
+D:\UPC\Sistemas Distribuidos\Proyecto\Metropolitano\Metropolitano.Test\obj\Debug\Metropolitano.Test.dll
+D:\UPC\Sistemas Distribuidos\Proyecto\Metropolitano\Metropolitano.Test\obj\Debug\Metropolitano.Test.pdb

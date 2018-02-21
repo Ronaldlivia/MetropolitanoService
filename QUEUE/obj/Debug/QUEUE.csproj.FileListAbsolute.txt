@@ -1,0 +1,17 @@
+D:\UPC\Sistemas Distribuidos\Proyecto\Metropolitano\QUEUE\bin\QUEUE.dll.config
+D:\UPC\Sistemas Distribuidos\Proyecto\Metropolitano\QUEUE\bin\QUEUE.dll
+D:\UPC\Sistemas Distribuidos\Proyecto\Metropolitano\QUEUE\bin\QUEUE.pdb
+D:\UPC\Sistemas Distribuidos\Proyecto\Metropolitano\QUEUE\obj\Debug\QUEUE.dll
+D:\UPC\Sistemas Distribuidos\Proyecto\Metropolitano\QUEUE\obj\Debug\QUEUE.pdb
+D:\UPC\Sistemas Distribuidos\Proyecto\Metropolitano\QUEUE\obj\Debug\QUEUE.csprojResolveAssemblyReference.cache
+D:\UPC\Sistemas Distribuidos\Proyecto\Metropolitano\QUEUE\bin\Common.Logging.dll
+D:\UPC\Sistemas Distribuidos\Proyecto\Metropolitano\QUEUE\bin\IronSharp.Core.dll
+D:\UPC\Sistemas Distribuidos\Proyecto\Metropolitano\QUEUE\bin\IronSharp.IronMQ.dll
+D:\UPC\Sistemas Distribuidos\Proyecto\Metropolitano\QUEUE\bin\Newtonsoft.Json.dll
+D:\UPC\Sistemas Distribuidos\Proyecto\Metropolitano\QUEUE\bin\System.Net.Http.Formatting.dll
+D:\UPC\Sistemas Distribuidos\Proyecto\Metropolitano\QUEUE\bin\Common.Logging.pdb
+D:\UPC\Sistemas Distribuidos\Proyecto\Metropolitano\QUEUE\bin\Common.Logging.xml
+D:\UPC\Sistemas Distribuidos\Proyecto\Metropolitano\QUEUE\bin\IronSharp.Core.pdb
+D:\UPC\Sistemas Distribuidos\Proyecto\Metropolitano\QUEUE\bin\IronSharp.IronMQ.pdb
+D:\UPC\Sistemas Distribuidos\Proyecto\Metropolitano\QUEUE\bin\Newtonsoft.Json.xml
+D:\UPC\Sistemas Distribuidos\Proyecto\Metropolitano\QUEUE\bin\System.Net.Http.Formatting.xml

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Iron.IronCore</id>
+    <version>3.0.10</version>
+    <title>IronCore</title>
+    <authors>Jeremy Bell</authors>
+    <owners>Jeremy Bell</owners>
+    <licenseUrl>https://raw.github.com/iron-io/iron_dotnet/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/iron-io/iron_dotnet</projectUrl>
+    <iconUrl>https://raw.github.com/iron-io/iron_dotnet/master/images/net-iron-core.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>IronCore is core for IronWorker, IronMq, IronCache packets</description>
+    <summary />
+    <releaseNotes>New version for MQ v3 and others products</releaseNotes>
+    <tags>iron.io</tags>
+    <dependencies>
+      <dependency id="Common.Logging" version="2.1.2" />
+      <dependency id="Microsoft.AspNet.WebApi.Client" version="4.0.30506" />
+      <dependency id="Newtonsoft.Json" version="5.0.1" />
+    </dependencies>
+  </metadata>
+</package>
